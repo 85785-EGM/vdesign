@@ -1,0 +1,34 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": "numso.prettier-standard-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "numso.prettier-standard-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "numso.prettier-standard-vscode"
+  },
+  "cSpell.enabled": true,
+  "cSpell.words": [
+    "dcloudio",
+    "miniprogram",
+    "pinia"
+  ],
+  "debug.javascript.debugByLinkOptions": "always",
+  "editor.formatOnSave": true,
+  "javascript.validate.enable": false,
+  "standard.autoFixOnSave": true,
+  "standard.enable": true,
+  "standard.options": {
+    "global": [
+      "Blob",
+    ],
+    "ignore": [
+      "node_modules/**",
+      "*.vue",
+      "*.ts",
+    ]
+  },
+  "vue3snippets.enable-compile-vue-file-on-did-save-code": false,
+  "typescript.format.insertSpaceBeforeFunctionParenthesis": true
+}

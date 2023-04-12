@@ -1,0 +1,20 @@
+{
+  "name": "uni-preset-vue",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "hotkeys-js": "^3.9.4",
+    "pinia": "^2.0.9",
+    "uuid": "^8.3.2",
+    "vue": "^3.2.x",
+    "vue-router": "^4.0.14"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "standard": "^16.0.4",
+    "vite": "^4.2.1"
+  }
+}

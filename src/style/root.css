@@ -1,0 +1,22 @@
+:root {
+  --background-color: #f7f8fa;
+  --project-sidebar-width: 40px;
+  --project-menu-width: 260px;
+  --project-attr-width: 250px;
+
+  background-color: var(--background-color);
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
